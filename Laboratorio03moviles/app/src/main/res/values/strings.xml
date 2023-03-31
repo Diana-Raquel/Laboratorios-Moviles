@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratorio 03 moviles</string>
+    <string name="moneyValue">0</string>
+    <string name="howMoney">Cantidad de dinero</string>
+    <string name="fiveCentsV">$0.05</string>
+    <string name="tenCentsV">$0.10</string>
+    <string name="quarterV">$0.25</string>
+    <string name="dollarV">$1</string>
+</resources>
