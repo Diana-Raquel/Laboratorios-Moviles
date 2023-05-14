@@ -10,14 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d61205d2-92cd-4614-8d9e-230433937891" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cruz/laboratorio_04/ShareActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_share.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio-02/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio-02/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio-02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio-02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio-02/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio-02/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio-03/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio-03/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio-03/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio-03/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio-03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio-03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio-03/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio-03/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio-03/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio-03/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio-03/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio-03/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +36,13 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OQoygKk2Q2ecxBeG9V68ArBaI4" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -49,8 +54,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/diana/Documentos/Laboratorios-Moviles/app/src/main/res/values"
+    "last_opened_file_path": "/home/diana/Documentos/Laboratorios-Moviles/Laboratorio-04"
   }
 }]]></component>
   <component name="RecentsManager">

@@ -6,4 +6,5 @@
     <string name="tenCentsV">$0.10</string>
     <string name="quarterV">$0.25</string>
     <string name="dollarV">$1</string>
+    <string name="todo">dinero</string>
 </resources>
